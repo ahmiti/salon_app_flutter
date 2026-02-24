@@ -1,20 +1,56 @@
+# 💇‍♀️ Salon App — Flutter
 
-# salon_app
+Application mobile moderne de réservation pour salon de beauté développée avec **Flutter**.  
+Cette application permet aux utilisateurs de consulter les services, réserver des rendez-vous et gérer leur profil facilement.
 
-A new Flutter project.
+---
 
-## Getting Started
+## ✨ Fonctionnalités
 
-This project is a starting point for a Flutter application.
+- Authentification utilisateur  
+- Consultation des services  
+- Réservation de rendez-vous  
+- Liste des rendez-vous  
+- Profil utilisateur  
+- Interface élégante et moderne  
+- Animations fluides  
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 📱 Captures d’écran
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### 🏠 Accueil & Interface principale
+![CaptureA1](assets/screenshots/CaptureA1.PNG)
 
-# salon_app_flutter
+### 🗓️ Réservation
+![CaptureA2](assets/screenshots/CaptureA2.PNG)
+![CaptureA3](assets/screenshots/CaptureA3.PNG)
+![CaptureA4](assets/screenshots/CaptureA4.PNG)
 
+### 💇‍♀️ Services & Détails
+![CaptureA5](assets/screenshots/CaptureA5.PNG)
+![CaptureA6](assets/screenshots/CaptureA6.PNG)
+![CaptureA7](assets/screenshots/CaptureA7.PNG)
+
+### 👤 Profil & Options
+![CaptureA9](assets/screenshots/CaptureA9.PNG)
+![CaptureA10](assets/screenshots/CaptureA10.PNG)
+
+---
+
+## 🛠️ Technologies utilisées
+
+- Flutter  
+- Dart  
+- Material Design  
+- Animations Flutter  
+
+---
+
+## 🚀 Installation
+
+```bash
+git clone https://github.com/ahmiti/salon_app_flutter.git
+cd salon_app_flutter
+flutter pub get
+flutter run
